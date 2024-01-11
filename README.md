@@ -17,7 +17,7 @@
 
 ### 开展课程
 - 2022年秋季学期，《DApp 开发与智能合约实践》，32学时
-- 2023年春季学期，《区块链金融》课程，32学时 （课程链接：https://space.bilibili.com/220951871/channel/collectiondetail?sid=1219027）
+- 2023年春季学期，《区块链金融》课程，32学时 [课程链接](https://space.bilibili.com/220951871/channel/collectiondetail?sid=1219027)
 - 2023年春季学期，《区块链应用系统开发实践》，32学时；
-- 2023年秋季学期，《DApp 设计与开发》，32学时 （课程链接：https://space.bilibili.com/220951871/channel/collectiondetail?sid=1839972）
+- 2023年秋季学期，《DApp 设计与开发》，32学时 [课程链接](https://space.bilibili.com/220951871/channel/collectiondetail?sid=1839972)
 - 2023年秋季学期，《DApp 开发与智能合约实践》，32学时
