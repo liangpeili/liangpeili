@@ -21,3 +21,11 @@
 - 2023年春季学期，《区块链应用系统开发实践》，32学时；
 - 2023年秋季学期，《DApp 设计与开发》，32学时 [课程链接](https://space.bilibili.com/220951871/channel/collectiondetail?sid=1839972)
 - 2023年秋季学期，《DApp 开发与智能合约实践》，32学时
+- 2024年春季学期，《区块链应用系统开发实践》，32学时；
+- 2024年春季学期，《DApp 开发与智能合约实践》，32学时
+
+### 发表论文
+
+- 徐莉程,梁培利 《区块链预言机节点选择的深度强化学习中间件》,《计算机应用研究》
+- Fei He, Fei Li, Peili Liang. Enhancing smart contract security: Leveraging pre-trained language models for advanced vulnerability detection. IET Blockchain
+- 郭熙，何晋，梁培利 《基于 BFT-SMaRt 的 RBFT 共识算法》, 《软件导刊》
