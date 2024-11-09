@@ -29,3 +29,4 @@
 - 徐莉程,梁培利 《区块链预言机节点选择的深度强化学习中间件》,《计算机应用研究》
 - Fei He, Fei Li, Peili Liang. Enhancing smart contract security: Leveraging pre-trained language models for advanced vulnerability detection. IET Blockchain
 - 郭熙，何晋，梁培利 《基于 BFT-SMaRt 的 RBFT 共识算法》, 《软件导刊》
+- Li Wei, Liang Peili, Li Fei. zk-STARKs based scheme for sealed auctions in chains. IET Blockchain
